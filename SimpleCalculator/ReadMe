@@ -1,0 +1,3 @@
+@Author :Khalid
+
+Takes two numbers an operator and then returns the result. Added Exception Handling and Unit Tests for reliability.

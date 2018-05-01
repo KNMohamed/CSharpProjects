@@ -1,0 +1,4 @@
+@Author: Khalid Mohamed
+
+This program takes a list of scrambled words through manual or file input, and checks if the unscrambled words match to a provided wordlist. 
+This program has unit tests and Exception Handling.
